@@ -16,9 +16,10 @@ Capstone Design 2024-29
 ## 팀 소개
 | <img src="./profile/kyuhyun.jpeg" height="200"> | <img src="./profile/junpark.jpg" height="200"> | <img src="./profile/byeon.jpeg" height="200"> | <img src="./profile/OH.png" height="200"> | <img src="./profile/shlee.jpg" height="200"> |
 | :---: | :---: | :---: | :---: | :---: |
-| 조규현 | 박준석 | 변준형 | 오준호 | 이세현 |
-| 20191669 | 20191271 | 20191606 | 20191626 | 20213043 |
-| [Kyuhyun-Cho](https://github.com/Kyuhyun-Cho) | [jjunseoki](https://github.com/jjunseoki) | [Byeoon](https://github.com/Byeooon) | [ojunho](https://github.com/ojunho) | [sehyeon518](https://github.com/sehyeon518) |
+| **조규현** | **박준석** | **변준형** | **오준호** | **이세현** |
+| ****1669 | ****1271 | ****1606 | ****1626 | ****3043 |
+| wrg0731@kookmin.ac.kr | 20191271@kookmin.ac.kr | junhyeong0519@kookmin.ac.kr |ojunho7535@gmail.com | lifethis21@kookmin.ac.kr |
+| [Kyuhyun-Cho](https://github.com/Kyuhyun-Cho) | [jjunseoki](https://github.com/jjunseoki) | [Byeooon](https://github.com/Byeooon) | [ojunho](https://github.com/ojunho) | [sehyeon518](https://github.com/sehyeon518) |
 
 
 ## 사용법
