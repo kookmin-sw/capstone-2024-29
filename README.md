@@ -18,7 +18,6 @@ Capstone Design 2024-29
 | :---: | :---: | :---: | :---: | :---: |
 | 조규현 | 박준석 | 변준형 | 오준호 | 이세현 |
 | 20191669 | 20191271 | 20191606 | 20191626 | 20213043 |
-| wrg0731@kookmin.ac.kr |20191271@kookmin.ac.kr | junhyeong0519@kookmin.ac.kr |ojunho7535@kookmin.ac.kr | lifethis21@kookmin.ac.kr |
 | [Kyuhyun-Cho](https://github.com/Kyuhyun-Cho) | [jjunseoki](https://github.com/jjunseoki) | [Byeoon](https://github.com/Byeooon) | [ojunho](https://github.com/ojunho) | [sehyeon518](https://github.com/sehyeon518) |
 
 
@@ -31,6 +30,3 @@ Capstone Design 2024-29
 추가적인 내용은 자유롭게 작성하세요.
 
 
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
