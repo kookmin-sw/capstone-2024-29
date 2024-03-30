@@ -13,7 +13,7 @@
 - 중간 발표 PDF
 
 ## 팀 소개
-|"![kyuhyun](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf)| <img src="./profile/junpark.jpg" height="200"> | <img src="./profile/byeon.jpeg" height="200"> | <img src="./profile/OH.png" height="200"> | <img src="./profile/shlee.jpg" height="200"> |
+|![kyuhyun](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf)|![junpark](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/4650c4bd-3114-4edc-8db2-74ed9ed3b31a)|![byeon](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280)|<img width="747" alt="OH" src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455">|![shlee](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871)|
 | :---: | :---: | :---: | :---: | :---: |
 | **조규현** | **박준석** | **변준형** | **오준호** | **이세현** |
 | ****1669 | ****1271 | ****1606 | ****1626 | ****3043 |
@@ -28,6 +28,4 @@
 ## 기타
 
 추가적인 내용은 자유롭게 작성하세요.
-
-
 
