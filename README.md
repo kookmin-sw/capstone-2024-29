@@ -1,5 +1,4 @@
-# AI Segmentation & Inpainting 기반 자율주행
-Capstone Design 2024-29
+# AI Segmentation & Inpainting 기반 자율주행 차량 카메라 센서 데이터 복원 시스템
 
 ## 프로잭트 소개
 
