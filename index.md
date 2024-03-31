@@ -24,7 +24,7 @@
 
 ##### 🚗 시뮬레이터를 활용한 Segmentation & Inpainting 기반 카메라 센서 데이터 복원 시스템
 
-<img src="[https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/3ea7ad36-c52f-4422-86ce-6dc5869408ed)" style="width: 100%; max-width: 600px;" alt="Description">
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/3ea7ad36-c52f-4422-86ce-6dc5869408ed" style="width: 100%; max-width: 600px;" alt="Description">
 
 <div style="text-align: justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;자율주행 차선 인식 ADAS(ex. LKA, LFA, HDA) 사용 중 카메라 센서에 오염이 발생할 경우 운전 중인 사람의 눈을 가리는 것과 마찬가지로 안전에 매우 치명적일 수 있습니다. 이와 관련하여 시장에 나와있는 솔루션은 단순 자율주행 비활성화 뿐입니다. 23년 9월 현대자동차,기아가 하드웨어적으로 이를 해결하기 위한 ‘로테이터캠’을 특허 등록했지만 차량 제조 단가, 디자인 등의 문제로 상용화에는 어려움이 있습니다. 따라서 이를 소프트웨어적으로 해결하는 방법을 고려하게 되었습니다.
@@ -65,7 +65,6 @@ $ python main.py
  <br/> <br/> <br/>
  
 ## 6. 기타
-![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/73a4ff57-aa98-4b82-9b41-679f783c91b8)
-
+<img src="[https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/3ea7ad36-c52f-4422-86ce-6dc5869408ed)" style="width: 100%; max-width: 600px;" alt="Description">
 ![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/e66d6ca8-a19b-4853-9930-9c03f53c28bb)
 
