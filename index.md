@@ -36,7 +36,7 @@
 ##  2. Abstract
   
 <div style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;Cameras are one of the most relevant sensors for autonomous driving applications. It is undeniable that failures of vehicle cameras may compromise the autonomous driving task, possibly leading to unsafe behaviors when images that are subsequently processed by the driving system are altered. To support the definition of safe and robust vehicle architectures and intelligent systems, we define an analysis of effects and mitigations. The resulting misbehaviors with respect to operating with clean images allow a better understanding of failures effects and the related safety risks in image-based system.
+&nbsp;&nbsp;Cameras are one of the most relevant sensors for autonomous driving applications. It is undeniable that failures of vehicle cameras may compromise the autonomous driving task, possibly leading to unsafe behaviors when images that are subsequently processed by the driving system are altered. To support the definition of safe and robust vehicle architectures and intelligent systems, we define an analysis of effects and mitigations. The resulting misbehaviors with respect to operating with clean images allow a better understanding of failures effects and the related safety risks in image-based system.
 </div>
 
  <br/> <br/> <br/>
