@@ -6,7 +6,7 @@
   
 ##### "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65" style="width: 100%; max-width: 600px;" alt="Description">
+&nbsp&nbsp<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65" style="width: 100%; max-width: 600px;" alt="Description">
 
 
 <div style="text-align: justify;">
