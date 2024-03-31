@@ -4,29 +4,9 @@ You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 프로젝트 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+자율주행 차선 인식 ADAS(ex. LKA, LFA, HDA) 사용 중 카메라 센서에 오염이 발생할 경우 운전 중인 사람의 눈을 가리는 것과 마찬가지로 안전에 매우 치명적일 수 있습니다. 이와 관련하여 시장에 나와있는 솔루션은 단순 자율주행 비활성화 뿐입니다. 23년 9월 현대자동차,기아가 하드웨어적으로 이를 해결하기 위한 ‘로테이터캠’을 특허 등록했지만 차량 제조 단가, 디자인 등의 문제로 상용화에는 어려움이 있습니다. 따라서 이를 소프트웨어적으로 해결하는 방법을 고려하게 되었습니다.
 
 ### Jekyll Themes
 
