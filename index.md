@@ -52,7 +52,7 @@
 |****1669|****1271|****1606| 
 |<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/93a7c8fa-f72d-4b45-9137-48bc27cce296" height="150">|
 |**오준호**|**이세현**|**국민대학교**|
-|****1626|****3043|dSPACEKR|
+|****1626|*****3043|dSPACEKR|
 
 
 
