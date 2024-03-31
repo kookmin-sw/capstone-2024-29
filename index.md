@@ -1,4 +1,4 @@
-## 프로젝트 소개
+## 1. 프로젝트 소개
 
 ### 🏢 산학 협력 기업
 <span style="color:blue"> (주)디스페이스코리아 </span>
@@ -19,30 +19,32 @@ dSPACE는 소프트웨어(SIL) 및 하드웨어(HIL) 기반의 시뮬레이션�
 자율주행 차선 인식 ADAS(ex. LKA, LFA, HDA) 사용 중 카메라 센서에 오염이 발생할 경우 운전 중인 사람의 눈을 가리는 것과 마찬가지로 안전에 매우 치명적일 수 있습니다. 이와 관련하여 시장에 나와있는 솔루션은 단순 자율주행 비활성화 뿐입니다. 23년 9월 현대자동차,기아가 하드웨어적으로 이를 해결하기 위한 ‘로테이터캠’을 특허 등록했지만 차량 제조 단가, 디자인 등의 문제로 상용화에는 어려움이 있습니다. 따라서 이를 소프트웨어적으로 해결하는 방법을 고려하게 되었습니다.
 
 
-
-## 🚔 Abstract
+##  2. Abstract
 Cameras are one of the most relevant sensors for autonomous driving applications. It is undeniable that failures of vehicle cameras may compromise the autonomous driving task, possibly leading to unsafe behaviors when images that are subsequently processed by the driving system are altered. To support the definition of safe and robust vehicle architectures and intelligent systems, in this paper we define the failure modes of a vehicle camera, together with an analysis of effects and known mitigations. The resulting misbehaviors with respect to operating with clean images allow a better understanding of failures effects and the related safety risks in image-based applications. 
 
 
-
-
-## 👪 Recovery Cam 팀 소개
-
-![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/4c2a0104-940b-4612-b134-d77d0d3590f1)
-
-
-
-## 소개 영상
+## 3. 소개 영상
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
-## 사용법
+
+
+## 4. Recovery Cam 팀 소개
+
+![tema_intro](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/397011d1-9b76-439c-9f88-1b76128ef446)
+
+
+
+
+
+
+## 5. 사용법
  ```
 $ python main.py
  ```
 
 
-## 기타
+## 6. 기타
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
