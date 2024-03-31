@@ -1,4 +1,4 @@
-![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/62e12a23-5e8f-4edb-85af-6586f8f0288f)## 1. 프로젝트 소개
+## 1. 프로젝트 소개
 
 ### 🏢 산학 협력 기업  : <span style="color:blue"> (주)디스페이스코리아 </span>
 
@@ -6,7 +6,7 @@
   
 ##### "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 
-&nbsp&nbsp<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65" style="width: 100%; max-width: 700px;" alt="Description">
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65" style="width: 100%; max-width: 700px;" alt="Description">
 
 
 <div style="text-align: justify;">
