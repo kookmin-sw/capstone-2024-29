@@ -23,7 +23,7 @@ Cameras are one of the most relevant sensors for autonomous driving applications
  <br/> <br/> <br/>
 ## 3. 소개 영상
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+👉🏻[2024_29팀_소개 영상](https://youtube.com)
 
  <br/> <br/> <br/>
 
