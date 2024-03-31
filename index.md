@@ -3,14 +3,19 @@
 ### 🏢 산학 협력 기업
 <span style="color:blue"> (주)디스페이스코리아 </span>
 
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/5e5e78c2-4a4d-43f0-9769-8fb83ecad18d" width="300" height="auto">
-
-
+![dspace_logo](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/6a84d988-f251-4a4d-9b78-b21ab5699270)
 
 ### "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 <div style="text-align: justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;dSPACE는 소프트웨어(SIL) 및 하드웨어(HIL) 기반의 시뮬레이션을 통해 복잡한 시스템의 효율적인 개발과 신뢰할 수 있는 검증 프로세스를 제공합니다. 글로벌 모빌리티 시장을 이끄는 혁신 기업으로서, 자율주행, e-mobility 및 디지털화를 위한 툴체인을 제공하여 자동차 산업의 역동적인 전환을 지원합니다. dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로 1,800명 이상의 직원을 두고 있습니다. 미국, 영국, 프랑스, 크로아티아, 일본, 중국 그리고 한국에 지사를 두고 있으며, 글로벌 지원을 위해 전 세계에 dSPACE를 대표하는 공급 업체를 두고 있습니다. 
   </div>
+  
+### 제공받는 플렛폼 : 
+
+![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/77f2c604-25ab-404d-bd69-76e23a1ad6de)
+
+
+
 
 
 
