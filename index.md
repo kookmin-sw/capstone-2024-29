@@ -2,6 +2,8 @@
 
 ### 🏢 산학 협력 기업  : <span style="color:blue"> (주)디스페이스코리아 </span>
 
+  <br/> 
+  
 ##### "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 
 ![dspace_logo](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/2354ede6-c40d-4d41-bdd0-4391977cba65)
