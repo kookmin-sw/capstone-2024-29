@@ -18,11 +18,7 @@
 
 ### 💻제공받는 플렛폼 : ModelDesk, AURELION, RTMaps
 
-![image](https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/77f2c604-25ab-404d-bd69-76e23a1ad6de)
-
-
-
-
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/77f2c604-25ab-404d-bd69-76e23a1ad6de" style="width: 100%; max-width: 600px;" alt="Description">
 
 
  <br/><br/>
