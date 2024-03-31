@@ -1,2 +1,38 @@
 theme: jekyll-theme-slate
 title: Capstone Project 2024 Team 29
+description: >
+  Welcome to our Capstone Project! Our team, Capstone 2024 Team 29, is pioneering
+  in developing an AI Segmentation & Inpainting based system for restoring camera
+  sensor data in autonomous vehicles. Dive into our project to explore how we're
+  pushing the boundaries of AI to enhance automotive safety and performance.
+
+# Add social media links if available
+social_links:
+  twitter: yourTwitterHandle
+  github: kookmin-sw/capstone-2024-29
+  email: team29@kookmin.ac.kr
+
+# Customize navigation bar
+navigation:
+  - title: About Us
+    url: /about
+  - title: Project Overview
+    url: /project
+  - title: Research
+    url: /research
+  - title: Team
+    url: /team
+  - title: Blog
+    url: /blog
+
+# Optional: Add Google Analytics or other tracking IDs
+google_analytics: YOUR_GOOGLE_ANALYTICS_TRACKING_ID
+
+# Optional: Disqus commenting system
+disqus:
+  shortname: YOUR_DISQUS_SHORTNAME
+
+# Improve SEO
+seo:
+  type: Project
+  keywords: AI, Segmentation, Inpainting, Autonomous Vehicles, Camera Sensor, Data Restoration
