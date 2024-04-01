@@ -74,36 +74,31 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 <br/>
 
 ## Abstract
-<div style="text-align:justify;">
 Ensuring high reliability and robustness of camera sensors is paramount in the realm of autonomous driving, where these sensors serve as the equivalent of human eyes. Contamination of camera sensors can lead to critical safety hazards, particularly in systems reliant on lane recognition such as Lane Keeping Assist (LKA), Lane Following Assist (LFA), and Highway Driving Assist (HDA). Current solutions predominantly focus on hardware-based approaches, including deactivating autonomous functions, utilizing built-in cleaning systems, and implementing rotating camera covers with wipers. However, these methods have limitations in providing comprehensive and effective mitigation strategies. In response to this challenge, this project proposes a novel software solution named 'Recovery Cam' to address camera lens contamination issues. By minimizing changes to vehicle design and architecture while ensuring robust camera perception performance, Recovery Cam aims to prevent accidents and enhance the safety of autonomous driving systems.  
-</div>
 
- <br/> <br/> <br/>
+<br/>
+
 ## 3. 소개 영상
 
-👉🏻[2024_29팀_소개 영상](https://youtube.com)
+[2024_29팀_소개 영상](https://youtube.com)
 
- <br/> <br/> <br/>
+<br/>
 
 ## 4. Recovery Cam 팀 소개
 
 |<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/94bf2f8a-c24d-4538-ba19-afc724c3c7c1" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
 | :---: | :---: | :---: | :---: | :---: |
 | **조규현** | **박준석** | **변준형** | **오준호** | **이세현** |
-| ********1669 | ********1271 | ********1606 | ********1626 | ********3043 |
+| ****1669 | ****1271 | ****1606 | ****1626 | ****3043 |
 
+<br/> 
 
-
-
-
- <br/> 
-
-
-## 5. 사용법
+## 사용법
  ```
 $ python main.py
  ```
- <br/> <br/> <br/>
+
+<br/> 
  
 ## 6. 기타
 <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/5eb56ff1-17da-41ac-9fa6-2bd0bb894fc3" style="width: 100%; max-width: 700px;" alt="Description">
