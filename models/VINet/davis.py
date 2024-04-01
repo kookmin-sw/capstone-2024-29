@@ -30,7 +30,7 @@ DAVIS_2016 = ['bear', 'bmx-bumps', 'boat', 'breakdance-flare', 'bus',
               'camel', 'car-roundabout', 'car-shadow', 'cows', 'dance-twirl',
               'dog', 'drift-chicane', 'drift-straight', 'goat', 
               'horsejump-high', 'kite-surf', 'libby', 'motocross-jump', 
-              'paragliding-launch', 'parkour', 'scooter-black', 'soapbox']
+              'paragliding-launch', 'parkour', 'scooter-black', 'soapbox', 'mud', 'snow']
 
 class DAVIS(data.Dataset):
     def __init__(self, root, imset='2016/train.txt', 
@@ -99,10 +99,10 @@ class DAVIS(data.Dataset):
                 mask_ = (mask_ != 0)
             else:
                 select_mask = min(1,mask_.max())
-                mask_ = (mask_==select_mask).astype(np.float)
+                mask_ = (mask_==select_mask).astype(float)
             
             w_k = np.ones((10,6))                
-            mask2 = signal.convolve2d(mask_.astype(np.float), w_k, 'same')
+            mask2 = signal.convolve2d(mask_.astype(float), w_k, 'same')
             mask2 = 1 - (mask2 == 0)
             mask_ = np.float32(mask2)
             masks.append( torch.from_numpy(mask_) )

@@ -20,14 +20,15 @@ opt = Object()
 opt.crop_size = 512
 opt.double_size = True if opt.crop_size == 512 else False
 # DAVIS dataloader
-DAVIS_ROOT = './DAVIS_demo'
+pwd = os.path.dirname(os.path.realpath(__file__))
+DAVIS_ROOT = os.path.join(pwd, "input", "VINet")
 DTset = DAVIS(DAVIS_ROOT, imset='2016/demo_davis.txt', 
               size=(opt.crop_size, opt.crop_size))
-DTloader = data.DataLoader(DTset, batch_size=1, shuffle=False, num_workers=1)
+DTloader = data.DataLoader(DTset, batch_size=1, shuffle=False, num_workers=0)
 
 opt.search_range = 4 # fixed as 4: search range for flow subnetworks
-opt.pretrain_path = 'results/vinet_agg_rec/save_agg_rec_512.pth'
-opt.result_path = 'results/vinet_agg_rec'
+opt.pretrain_path = 'results/VINet/vinet_agg_rec/save_agg_rec_512.pth'
+opt.result_path = 'results/VINet/vinet_agg_rec'
 
 opt.model = 'vinet_final'
 opt.batch_norm = False
