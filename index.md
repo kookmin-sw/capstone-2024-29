@@ -2,11 +2,9 @@
 <br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/859f2d7f-c110-48f4-88e8-205f373d092b" alt="Logo" width="200" height="200">
   </a>
-
   <h3 align="center">"Recovery Cam"</h3>
-
   <p align="center">
     <br/>
     가상 검증을 통한 AI Segmentation & Inpainting 기반 자율주행 차량 카메라 센서 데이터 복원 시스템
