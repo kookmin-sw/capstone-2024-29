@@ -2,21 +2,17 @@
 <br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/859f2d7f-c110-48f4-88e8-205f373d092b" alt="Logo" width="200" height="200">
+    <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1b1202a7-e86f-4116-9f8b-4f1a655590b1" alt="Logo" width="200">
   </a>
-  <h3 align="center">"Recovery Cam"</h3>
   <p align="center">
-    <br/>
-    가상 검증을 통한 AI Segmentation & Inpainting 기반 자율주행 차량 카메라 센서 데이터 복원 시스템
-    <br/><br/>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반 자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
+    <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template](https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <br/>
   </p>
 </div>
 
@@ -92,8 +88,32 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 <br/> 
 
 ## 사용법
+1. Clone Repo
  ```
-$ python main.py
+git clone https://github.com/kookmin-sw/capstone-2024-29.git
+ ```
+
+2. Create Conda Environment and Install Dependencies 
+ ```
+# create new anaconda env
+conda create -n recovery_cam python=3.8 -y
+conda activate recovery_cam
+
+# install python dependencies
+pip3 install -r requirements.txt
+ ```
+* CUDA >= 9.2</br>
+* PyTorch >= 1.7.1</br>
+* Torchvision >= 0.8.2</br>
+* Other required packages in requirements.txt</br>
+
+3. Quick test
+ ```
+# The first example (Blockage Segmentation)
+python src/YOLOv8/segmentation/segmentation_predict.py
+
+# The second example (Generation Binary Masking Image)
+python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.py
  ```
 
 <br/> 
