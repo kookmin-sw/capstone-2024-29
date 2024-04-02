@@ -8,9 +8,9 @@ import numpy as np
 ratio = 0.5
 H, W = 512, 512
 bg_root = './results/vinet_agg_rec/davis_512/'
-mask_root = './DAVIS_demo/Annotations/480p/'
-fg_root = './DAVIS_demo/JPEGImages/480p/'
-save_root = './results/vinet_agg_rec/'
+mask_root = './src/VINet/Annotations/480p/'
+fg_root = './src/VINet/JPEGImages/480p/'
+save_root = './results/VINet/vinet_agg_rec/'
 
 for mode in ['horizontal', 'vertical']:
     for vid_name in os.listdir(bg_root):
