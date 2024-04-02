@@ -9,7 +9,7 @@
     <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/othneildrew/Best-README-Template](https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>중간 발표자료</strong></a>
     <br/>
