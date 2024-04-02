@@ -27,7 +27,7 @@ DTset = DAVIS(DAVIS_ROOT, imset='2016/demo_davis.txt',
 DTloader = data.DataLoader(DTset, batch_size=1, shuffle=False, num_workers=0)
 
 opt.search_range = 4 # fixed as 4: search range for flow subnetworks
-opt.pretrain_path = 'results/VINet/vinet_agg_rec/save_agg_rec_512.pth'
+opt.pretrain_path = 'models/VINet/vinet_agg_rec/save_agg_rec_512.pth'
 opt.result_path = 'results/VINet/vinet_agg_rec'
 
 opt.model = 'vinet_final'
