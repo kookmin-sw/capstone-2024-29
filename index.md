@@ -95,7 +95,7 @@ git clone https://github.com/kookmin-sw/capstone-2024-29.git
  ```
 # create new anaconda env
 conda create -n recovery_cam python=3.8 -y
-conda activate recovery_cam<br/>
+conda activate recovery_cam
 # install python dependencies
 pip3 install -r requirements.txt
  ```
