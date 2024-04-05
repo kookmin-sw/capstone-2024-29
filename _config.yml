@@ -1,11 +1,7 @@
 theme: jekyll-theme-slate
 title: Capstone Project 2024 Team 29
 description: >
-  Welcome to our Capstone Project! Our team, Capstone 2024 Team 29, is pioneering
-  in developing an AI Segmentation & Inpainting based system for restoring camera
-  sensor data in autonomous vehicles. Dive into our project to explore how we're
-  pushing the boundaries of AI to enhance automotive safety and performance.
-
+ 
 # Add social media links if available
 social_links:
   twitter: yourTwitterHandle
