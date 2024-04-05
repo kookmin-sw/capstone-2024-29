@@ -11,7 +11,7 @@
     <br/>
     <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>중간 발표자료</strong></a>
     <br/>
   </p>
 </div>
@@ -127,7 +127,7 @@ python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.
     <br/>
     <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>중간 발표자료</strong></a>
     <br/>
   </p>
 </div>
