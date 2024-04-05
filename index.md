@@ -82,7 +82,6 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 | :---: | :---: | :---: |
 | **조규현** | **박준석** | **변준형** |
 | ****1669 | ****1271 | ****1606 |
-
 |<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
 | :---: | :---: |
 | **오준호** | **이세현** |
