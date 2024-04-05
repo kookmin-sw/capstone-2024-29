@@ -119,8 +119,17 @@ python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.
 <br/> 
  
 ## 6. 기타
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/5eb56ff1-17da-41ac-9fa6-2bd0bb894fc3" style="width: 100%; max-width: 700px;" alt="Description">
-
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/9824ee5c-d9fd-458d-8c88-4647b0535502" style="width: 100%; max-width: 700px;" alt="Description">
+<br/>
+<div align="center">
+  <p align="center">
+    <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
+    ·
+    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <br/>
+  </p>
+</div>
 
 
