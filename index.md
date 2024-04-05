@@ -92,18 +92,20 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
  ```
 git clone https://github.com/kookmin-sw/capstone-2024-29.git
  ```
+<br/>
 2. Create Conda Environment and Install Dependencies 
  ```
 # create new anaconda env
 conda create -n recovery_cam python=3.8 -y
-conda activate recovery_cam
+conda activate recovery_cam<br/>
 # install python dependencies
 pip3 install -r requirements.txt
  ```
 * CUDA >= 9.2</br>
 * PyTorch >= 1.7.1</br>
 * Torchvision >= 0.8.2</br>
-* Other required packages in requirements.txt</br>
+* Other required packages in requirements.txt
+</br>
 3. Quick test
  ```
 # The first example (Blockage Segmentation)
