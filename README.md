@@ -74,7 +74,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 ## 3. 소개 영상
 
-[2024_29팀_소개 영상](https://youtube.com)
+[추후 업로드 예정]
 
 <br/>
 
