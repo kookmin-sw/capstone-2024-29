@@ -18,8 +18,7 @@
 
 <!-- About the Project -->
 ## 프로젝트 소개
-
-![Project_Introduction](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1397c9a7-98cb-4fab-8706-0e6018c46e49)
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1397c9a7-98cb-4fab-8706-0e6018c46e49" width="640" />
 
 자율주행 차량에 사용되는 여러 센서 중 카메라 센서는 ‘인간의 눈’ 역할을 담당하는 만큼 높은 신뢰성과 강인성이 중요합니다.
 
@@ -41,7 +40,7 @@
 ### 산학 협력 기업: dSPACE Korea
 
 <p align="center">
-  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE" /><br/><br/>
+  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE"  width="640"/><br/><br/>
   "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 </p>
 
@@ -62,8 +61,7 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 * Aurelion: ADAS/AD용 사실적인 실시간 센서 시뮬레이션
 * RTMaps: 데이터 기록 및 재생, 멀티센서 인지 알고리즘 개발을 위한 프레임워크
 
-
-![dSPACE_Solution](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d)
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d" width="640" />
 
 <br/>
 
