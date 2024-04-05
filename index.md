@@ -99,14 +99,12 @@ conda activate recovery_cam<br/>
 # install python dependencies
 pip3 install -r requirements.txt
  ```
+<br/>
 * CUDA >= 9.2
-</br>
 * PyTorch >= 1.7.1
-</br>
 * Torchvision >= 0.8.2
-</br>
 * Other required packages in requirements.txt
-</br>
+<br/>
 3. Quick test
  ```
 # The first example (Blockage Segmentation)
@@ -118,7 +116,6 @@ python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.
 <br/> 
  
 ## 6. 기타
-<br/>
 <div align="center">
   <p align="center">
     <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
@@ -130,5 +127,6 @@ python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.
     <br/>
   </p>
 </div>
+<br/>
 
 
