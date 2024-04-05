@@ -78,14 +78,10 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 ## 4. Recovery Cam 팀 소개
 
-|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/94bf2f8a-c24d-4538-ba19-afc724c3c7c1" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280" height="150">|
-| :---: | :---: | :---: |
-| **조규현** | **박준석** | **변준형** |
-| ****1669 | ****1271 | ****1606 |
-|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
-| :---: | :---: |
-| **오준호** | **이세현** |
-| ****1626 | ****3043 |
+|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/94bf2f8a-c24d-4538-ba19-afc724c3c7c1" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
+| :---: | :---: | :---: | :---: | :---: |
+| **조규현** | **박준석** | **변준형** | **오준호** | **이세현** |
+| ****1669 | ****1271 | ****1606 | ****1626 | ****3043 |
 <br />
 
 ## 사용법
