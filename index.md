@@ -39,8 +39,9 @@
 
 ### 산학 협력 기업: dSPACE Korea
 
+
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE"  width="640"/><br/><br/>
 <p align="center">
-  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE"  width="640"/><br/><br/>
   "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 </p>
 
@@ -72,7 +73,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 ## 3. 소개 영상
 
-[2024_29팀_소개 영상](https://youtube.com)
+[추후 업로드 예정]
 
 <br/>
 
@@ -95,7 +96,7 @@ git clone https://github.com/kookmin-sw/capstone-2024-29.git
  ```
 # create new anaconda env
 conda create -n recovery_cam python=3.8 -y
-conda activate recovery_cam<br/>
+conda activate recovery_cam
 # install python dependencies
 pip3 install -r requirements.txt
  ```
