@@ -7,9 +7,9 @@ def generate_model(opt):
 
     try: 
         assert(opt.model == 'vinet_final')
-        model = vinet.VINet_final(opt=opt)
     except:
         print('Model name should be: vinet_final')
+    model = vinet.VINet_final(opt=opt)
 
     assert(opt.no_cuda is False)
     model = model.cuda()
