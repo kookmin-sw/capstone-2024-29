@@ -76,13 +76,33 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 <br/>
 
-## 3. 소개 영상
+## 소개 영상
 
-[추후 업로드 예정]
+[![thumbnail](https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504)](https://youtu.be/9Sv_1WKCnC4?feature=shared)
 
 <br/>
 
-## 4. Recovery Cam 팀 소개
+## 주요 기능
+1. **Segmentation**
+<br/>
+Instance Segmentation은 이미지 내 개별 객체를 식별하고, 그 객체의 정확한 형태와 경계를 구분하는 과정을 포함합니다. 카메라에 부착된 오염물질을 판단하고, 이후 해당 오염물질의 영역을 검출하는 데 사용됩니다. 이때 오염물질은 진흙과, 새똥, 빗방울, 낙엽, 벌레를 포함합니다.
+
+2. **Binary Masking Image**
+<br/>
+검출된 오염 영역을 바탕으로 오염물질이 부착된 영역과 그렇지 않은 영역을 구분하는 이진 마스킹 이미지를 생성하여 오염된 영역을 정확하게 표시합니다. 이를 통해 추후 Inpainting 모델이 복원해야 하는 영역을 알 수 있도록 합니다.
+
+3. **Inpainting**
+<br/>
+Binary 마스킹을 통해서 오염물질이 부착된 부분을 정확하게 복원합니다.
+
+4. **Lane Detection**
+<br/>
+복원된 영상에 차선인식 모델을 적용하여 차선을 인식합니다.
+<br/>
+
+<br/>
+
+## Recovery Cam 팀 소개
 
 |<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/94bf2f8a-c24d-4538-ba19-afc724c3c7c1" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
 | :---: | :---: | :---: | :---: | :---: |
@@ -122,7 +142,7 @@ python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.
 
 <br/> 
  
-## 6. 기타
+## 기타
 <br/>
 <div align="center">
   <p align="center">
