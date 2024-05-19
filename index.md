@@ -112,24 +112,24 @@ pip3 install -r requirements.txt
 * CUDA >= 9.2
 * PyTorch >= 1.7.1
 * Torchvision >= 0.8.2
-* Other required packages in requirements.txt
+* Other required packages in requirements.txt  
 <br/>
 
 3. Download Inpainting ckpt file  
  ```  
-# Download Inpainting ckpt file
-# Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
+# Download Inpainting ckpt file  
+# Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing  
 
-# Move the trained_model folder into the /image_inpainting folder.
-# ./image_inpainting/trained_model
+# Move the trained_model folder into the /image_inpainting folder.  
+# ./image_inpainting/trained_model  
  ```  
 <br/>
 
 4. Quick test  
  ```  
-bash ./demo.sh --video_name {your video file name}.mp4
+bash ./demo.sh --video_name {your video file name}.mp4  
 
-# You can check the results in the ./demo_outputs folder.
+# You can check the results in the ./demo_outputs folder.  
  ```  
 <br/>
 
