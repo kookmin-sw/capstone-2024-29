@@ -130,10 +130,18 @@ pip3 install -r requirements.txt
 * Torchvision >= 0.8.2</br>
 * Other required packages in requirements.txt</br>
 
-3. Quick test
+3. Download Inpainting ckpt file
  ```
-cd ./src
-demo.sh
+# Download Inpainting ckpt file
+# Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
+
+# Move the trained_model folder into the /image_inpainting folder.
+./image_inpainting/trained_model
+ ```
+
+4. Quick test
+ ```
+bash ./demo.sh --video_name {your video file name}.mp4
  ```
 
 <br/> 
