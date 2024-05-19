@@ -103,10 +103,10 @@ git clone https://github.com/kookmin-sw/capstone-2024-29.git
 
 2. Create Conda Environment and Install Dependencies 
  ```
-# create new anaconda env
+# Create new anaconda env
 conda create -n recovery_cam python=3.8 -y
 conda activate recovery_cam
-# install python dependencies
+# Install python dependencies
 pip3 install -r requirements.txt
  ```
 * CUDA >= 9.2
@@ -116,21 +116,21 @@ pip3 install -r requirements.txt
 <br/>
 
 3. Download Inpainting ckpt file  
- ```
+ ```  
 # Download Inpainting ckpt file
 # Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
 
 # Move the trained_model folder into the /image_inpainting folder.
 # ./image_inpainting/trained_model
- ```
+ ```  
 <br/>
 
 4. Quick test  
- ```
+ ```  
 bash ./demo.sh --video_name {your video file name}.mp4
 
-#You can check the results in the ./demo_outputs folder.
- ```
+# You can check the results in the ./demo_outputs folder.
+ ```  
 <br/>
 
 ## 기타
