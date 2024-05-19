@@ -115,7 +115,7 @@ pip3 install -r requirements.txt
 * Other required packages in requirements.txt
 <br/>
 
-3. Download Inpainting ckpt file
+3. Download Inpainting ckpt file  
  ```
 # Download Inpainting ckpt file
 # Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
@@ -125,7 +125,7 @@ pip3 install -r requirements.txt
  ```
 <br/>
 
-4. Quick test
+4. Quick test  
  ```
 bash ./demo.sh --video_name {your video file name}.mp4
 
