@@ -5,20 +5,24 @@
     <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1b1202a7-e86f-4116-9f8b-4f1a655590b1" alt="Logo" width="200">
   </a>
   <p align="center">
-    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반 자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
-    <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
+    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</br>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
+    <a href="https://github.com/kookmin-sw/capstone-2024-29/"><strong>Github Project»</strong></a>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    ·
+    <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
+    .
+    <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Inpainting Weights]</strong></a>
     <br/>
   </p>
 </div>
 
 <!-- About the Project -->
 ## 프로젝트 소개
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1397c9a7-98cb-4fab-8706-0e6018c46e49" width="640" />
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/2c3e94ab-1eb5-450b-a658-a9560aaf3222" width="640" />
 
 자율주행 차량에 사용되는 여러 센서 중 카메라 센서는 ‘인간의 눈’ 역할을 담당하는 만큼 높은 신뢰성과 강인성이 중요합니다.
 
@@ -71,13 +75,13 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 <br/>
 
-## 3. 소개 영상
+## 소개 영상
 
-[추후 업로드 예정]
+[![thumbnail](https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504)](https://youtu.be/9Sv_1WKCnC4?feature=shared
 
 <br/>
 
-## 4. Recovery Cam 팀 소개
+## Recovery Cam 팀 소개
 
 |<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/e8d07cc9-80ee-41e2-9152-038c0d73b6cf" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/65781023/94bf2f8a-c24d-4538-ba19-afc724c3c7c1" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/ab84878d-7918-4142-9459-4be2bd115280" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/b2506c95-6af7-4f58-8341-f0b971e69455" height="150">|<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/34a2a60c-2ddf-40ac-a3e4-6f5c35e28871" height="150">|
 | :---: | :---: | :---: | :---: | :---: |
@@ -105,28 +109,40 @@ pip3 install -r requirements.txt
 * Torchvision >= 0.8.2
 * Other required packages in requirements.txt
 <br/>
-3. Quick test
+3. Download Inpainting ckpt file
  ```
-# The first example (Blockage Segmentation)
-python src/YOLOv8/segmentation/segmentation_predict.py
-# The second example (Generation Binary Masking Image)
-python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.py
+# Download Inpainting ckpt file
+# Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
+
+# Move the trained_model folder into the /image_inpainting folder.
+# ./image_inpainting/trained_model
+ ```
+</br>
+4. Quick test
+ ```
+bash ./demo.sh --video_name {your video file name}.mp4
+
+#You can check the results in the ./demo_outputs folder.
  ```
 
-<br/> 
+</br> 
  
-## 6. 기타
+## 기타
 <div align="center">
   <p align="center">
     <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>중간 보고서</strong></a>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>중간 발표자료</strong></a>
+    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    ·
+    <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
+    .
+    <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Inpainting Weights]</strong></a>
     <br/>
   </p>
 </div>
-<br/>
+
 
 
