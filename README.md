@@ -124,7 +124,7 @@ pip3 install -r requirements.txt
  ```
 bash ./demo.sh --video_name {your video file name}.mp4
 
-#You can check the results in the ./demo_outputs folder.
+# You can check the results in the ./demo_outputs folder.
  ```
 
 <br/> 
