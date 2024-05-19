@@ -5,7 +5,8 @@
     <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1b1202a7-e86f-4116-9f8b-4f1a655590b1" alt="Logo" width="200">
   </a>
   <p align="center">
-    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</br>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
+    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</h3>
+    <h3>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
     <a href="https://github.com/kookmin-sw/capstone-2024-29/"><strong>Github Project»</strong></a>
     <br/>
     <br/>
@@ -76,8 +77,9 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 <br/>
 
 ## 소개 영상
-
-[![thumbnail](https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504)](https://youtu.be/9Sv_1WKCnC4?feature=shared
+<a href="https://youtu.be/9Sv_1WKCnC4?feature=shared" target="_blank">
+  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504" width="640">
+</a>
 
 <br/>
 
