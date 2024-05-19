@@ -119,7 +119,6 @@ pip3 install -r requirements.txt
  ```  
 # Download Inpainting ckpt file  
 # Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing  
-
 # Move the trained_model folder into the /image_inpainting folder.  
 # ./image_inpainting/trained_model  
  ```  
@@ -128,7 +127,6 @@ pip3 install -r requirements.txt
 4. Quick test  
  ```  
 bash ./demo.sh --video_name {your video file name}.mp4  
-
 # You can check the results in the ./demo_outputs folder.  
  ```  
 <br/>
