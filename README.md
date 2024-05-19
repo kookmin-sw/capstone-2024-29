@@ -5,7 +5,8 @@
     <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1b1202a7-e86f-4116-9f8b-4f1a655590b1" alt="Logo" width="200">
   </a>
   <p align="center">
-    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</br>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
+    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</h3>
+    <h3>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
     <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
     <br/>
     <br/>
