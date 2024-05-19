@@ -136,7 +136,7 @@ pip3 install -r requirements.txt
 # Download trained_model from https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing
 
 # Move the trained_model folder into the /image_inpainting folder.
-./image_inpainting/trained_model
+# ./image_inpainting/trained_model
  ```
 
 4. Quick test
