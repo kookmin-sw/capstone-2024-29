@@ -90,7 +90,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 | **조규현** | **박준석** | **변준형** | **오준호** | **이세현** |
 | ****1669 | ****1271 | ****1606 | ****1626 | ****3043 |
 
-<br />
+<br/>
 
 ## 사용법
 1. Clone Repo
@@ -98,6 +98,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 git clone https://github.com/kookmin-sw/capstone-2024-29.git
  ```
 <br/>
+
 2. Create Conda Environment and Install Dependencies 
  ```
 # create new anaconda env
@@ -111,6 +112,7 @@ pip3 install -r requirements.txt
 * Torchvision >= 0.8.2
 * Other required packages in requirements.txt
 <br/>
+
 3. Download Inpainting ckpt file
  ```
 # Download Inpainting ckpt file
@@ -119,7 +121,8 @@ pip3 install -r requirements.txt
 # Move the trained_model folder into the /image_inpainting folder.
 # ./image_inpainting/trained_model
  ```
-</br>
+<br/>
+
 4. Quick test
  ```
 bash ./demo.sh --video_name {your video file name}.mp4
@@ -127,7 +130,7 @@ bash ./demo.sh --video_name {your video file name}.mp4
 #You can check the results in the ./demo_outputs folder.
  ```
 
-</br> 
+<br/> 
  
 ## 기타
 <div align="center">
