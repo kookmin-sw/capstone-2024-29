@@ -84,19 +84,18 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 ## 주요 기능
 1. **Segmentation**
-<br/>
 Instance Segmentation은 이미지 내 개별 객체를 식별하고, 그 객체의 정확한 형태와 경계를 구분하는 과정을 포함합니다. 카메라에 부착된 오염물질을 판단하고, 이후 해당 오염물질의 영역을 검출하는 데 사용됩니다. 이때 오염물질은 진흙과, 새똥, 빗방울, 낙엽, 벌레를 포함합니다.
+<br/>
 
 2. **Binary Masking Image**
-<br/>
 검출된 오염 영역을 바탕으로 오염물질이 부착된 영역과 그렇지 않은 영역을 구분하는 이진 마스킹 이미지를 생성하여 오염된 영역을 정확하게 표시합니다. 이를 통해 추후 Inpainting 모델이 복원해야 하는 영역을 알 수 있도록 합니다.
+<br/>
 
 3. **Inpainting**
-<br/>
 Binary 마스킹을 통해서 오염물질이 부착된 부분을 정확하게 복원합니다.
+<br/>
 
 4. **Lane Detection**
-<br/>
 복원된 영상에 차선인식 모델을 적용하여 차선을 인식합니다.
 <br/>
 
@@ -133,11 +132,8 @@ pip3 install -r requirements.txt
 
 3. Quick test
  ```
-# The first example (Blockage Segmentation)
-python src/YOLOv8/segmentation/segmentation_predict.py
-
-# The second example (Generation Binary Masking Image)
-python src/YOLOv8/segmentation_with_binary_masking/seg_predict_generate_masking.py
+cd ./src
+demo.sh
  ```
 
 <br/> 
