@@ -15,7 +15,7 @@
     ·
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
     .
-    <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Weight]</strong></a>
+    <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Inpainting Weights]</strong></a>
     <br/>
   </p>
 </div>
