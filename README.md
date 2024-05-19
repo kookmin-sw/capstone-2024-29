@@ -21,7 +21,7 @@
 <!-- About the Project -->
 ## 프로젝트 소개
 
-![Project_Introduction](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1397c9a7-98cb-4fab-8706-0e6018c46e49)
+![캡스톤디자인_포스터_최종_downsize](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/2c3e94ab-1eb5-450b-a658-a9560aaf3222)
 
 자율주행 차량에 사용되는 여러 센서 중 카메라 센서는 ‘인간의 눈’ 역할을 담당하는 만큼 높은 신뢰성과 강인성이 중요합니다.
 
