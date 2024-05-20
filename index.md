@@ -5,7 +5,7 @@
     <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/1b1202a7-e86f-4116-9f8b-4f1a655590b1" alt="Logo" width="200">
   </a>
   <p align="center">
-    <h3>가상 검증을 통한 AI Segmentation & Inpainting 기반</h3>
+    <h3>가상 환경 검증을 통한 AI Segmentation & Inpainting 기반</h3>
     <h3>자율주행 차량 카메라 센서 데이터 복원 시스템</h3>
     <a href="https://github.com/kookmin-sw/capstone-2024-29/"><strong>Github Project»</strong></a>
     <br/>
@@ -27,7 +27,7 @@
 
 자율주행 차량에 사용되는 여러 센서 중 카메라 센서는 ‘인간의 눈’ 역할을 담당하는 만큼 높은 신뢰성과 강인성이 중요합니다.
 
-실제로 LKA(Lane Keeping Assist), LFA(Lane Following Assist) 그리고 HDA(Highway Driving Assist) 등 차선 인식 기반 ADAS 사용 중 카메라 센서에 오염이 발생할 경우 차량 제어에 이상이 생겨 치명적인 사고로 발생할 가능성이 있습니다.
+실제로 LKA(Lane Keeping Assist), LFA(Lane Following Assist) 그리고 HDA(Highway Driving Assist) 등 차선 인식 기반 ADAS 사용 중 카메라 센서에 오염이 발생할 경우 차량 제어에 이상이 생겨 치명적인 사고로 이어질 가능성이 있습니다.
 
 카메라 센서 오염과 관련하여 현재 시장에 나와 있는, 혹은 관련 연구가 진행되고 있는 솔루션은 크게 세 가지입니다.
 * 자율주행 기능 비활성화하기. 그러나, 근본적인 해결책이 될 수 없습니다.
