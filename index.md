@@ -10,7 +10,7 @@
     <a href="https://github.com/kookmin-sw/capstone-2024-29/"><strong>Github Project»</strong></a>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/13DaArTH9cTFHPU55mIuxK6XIwcbCLNGp/view?usp=sharing"><strong>[최종 보고서]</strong></a>
+    <a href="https://drive.google.com/file/d/1LHRvtGyhIzEe8s-3c84pXBhnphMpKXJd/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
     ·
@@ -137,7 +137,7 @@ bash ./demo.sh --video_name {your video file name}.mp4
     <a href="https://kookmin-sw.github.io/capstone-2024-29/"><strong>Github Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/13DaArTH9cTFHPU55mIuxK6XIwcbCLNGp/view?usp=sharing"><strong>[최종 보고서]</strong></a>
+    <a href="https://drive.google.com/file/d/1LHRvtGyhIzEe8s-3c84pXBhnphMpKXJd/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
     ·
