@@ -10,9 +10,9 @@
     <a href="https://github.com/kookmin-sw/capstone-2024-29/"><strong>Github Project»</strong></a>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>[최종 보고서]</strong></a>
+    <a href="https://drive.google.com/file/d/13DaArTH9cTFHPU55mIuxK6XIwcbCLNGp/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/10aN_GWOGEg3s0kv2hkrTJInUGjD0v7Mm/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
     ·
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
     .
