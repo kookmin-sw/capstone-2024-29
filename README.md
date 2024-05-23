@@ -12,7 +12,7 @@
     <br/>
     <a href="https://drive.google.com/file/d/13DaArTH9cTFHPU55mIuxK6XIwcbCLNGp/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/1VeLh8Uo29cKEt2DrCoKIOIHIr3aTw9O5/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
     ·
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
     ·
@@ -140,7 +140,7 @@ bash ./demo.sh --video_name {your video file name}.mp4
     <br/>
     <a href="https://drive.google.com/file/d/13DaArTH9cTFHPU55mIuxK6XIwcbCLNGp/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/1VeLh8Uo29cKEt2DrCoKIOIHIr3aTw9O5/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
     ·
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
     .
