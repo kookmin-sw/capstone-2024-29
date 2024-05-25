@@ -40,8 +40,6 @@
 
 이를 통해 차량 설계 및 디자인 변경 최소화는 물론, 자율주행 차량의 강건한 카메라 인지 성능을 보장하여 인명사고를 예방하길 기대합니다.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <br/>
 
 ## Abstract
