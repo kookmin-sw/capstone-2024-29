@@ -81,8 +81,7 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 * Aurelion: ADAS/AD용 사실적인 실시간 센서 시뮬레이션
 * RTMaps: 데이터 기록 및 재생, 멀티센서 인지 알고리즘 개발을 위한 프레임워크
 
-
-![dSPACE_Solution](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d)
+![dSPACE_Solutions](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/7d489c9b-4fce-41bb-b010-95583197df3b)
 
 <br/>
 
