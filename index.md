@@ -51,7 +51,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 <br/>
 
-### 산학 협력 기업: dSPACE Korea
+## 산학 협력 기업: dSPACE Korea
 
 
 <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE"  width="640"/><br/><br/>
