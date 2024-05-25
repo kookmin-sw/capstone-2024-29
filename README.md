@@ -61,7 +61,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 ## 산학 협력 기업: dSPACE Korea
 
 <p align="center">
-  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" alt="dSPACE" /><br/><br/>
+  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/48c32b29-ca28-4bfe-9213-a5df6927f210" width="600"/><br/><br/>
   "자율주행차 개발을 위한 시뮬레이션 및 검증 솔루션을 제공하는 선도적인 글로벌 기업"
 </p>
 
