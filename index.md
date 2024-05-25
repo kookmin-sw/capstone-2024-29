@@ -21,6 +21,8 @@
   </p>
 </div>
 
+<br/>
+
 <!-- About the Project -->
 ## 프로젝트 소개
 <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/2c3e94ab-1eb5-450b-a658-a9560aaf3222" width="640" />
