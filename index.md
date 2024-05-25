@@ -51,6 +51,13 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 <br/>
 
+## 소개 영상 (Click to watch)
+<a href="https://youtu.be/9Sv_1WKCnC4?feature=shared" target="_blank">
+  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504" width="640">
+</a>
+
+<br/>
+
 ## 산학 협력 기업: dSPACE Korea
 
 
@@ -69,21 +76,12 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 
 미국, 영국, 프랑스, 크로아티아, 일본, 중국 그리고 한국에 지사를 두고 있으며, 글로벌 지원을 위해 전 세계에 dSPACE를 대표하는 공급 업체를 두고 있습니다. 
 
-<br/>
-
 본 프로젝트에 사용된 dSPACE사의 솔루션은 다음 세 가지입니다.
 * ModelDesk: 매개변수화 및 시뮬레이션을 위한 그래픽 사용자 인터페이스
 * Aurelion: ADAS/AD용 사실적인 실시간 센서 시뮬레이션
 * RTMaps: 데이터 기록 및 재생, 멀티센서 인지 알고리즘 개발을 위한 프레임워크
 
 <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d" width="640" />
-
-<br/>
-
-## 소개 영상
-<a href="https://youtu.be/9Sv_1WKCnC4?feature=shared" target="_blank">
-  <img src="https://github.com/kookmin-sw/capstone-2024-29/assets/84698896/801477b1-18f7-475b-85c5-9c4b0f6ba504" width="640">
-</a>
 
 <br/>
 
