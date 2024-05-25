@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+![dSAPCE_Solutions_Navy](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/0d771b71-d501-4539-86ad-b08c7c86a70c)<!-- PROJECT LOGO -->
 <br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -81,7 +81,7 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 * Aurelion: ADAS/AD용 사실적인 실시간 센서 시뮬레이션
 * RTMaps: 데이터 기록 및 재생, 멀티센서 인지 알고리즘 개발을 위한 프레임워크
 
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d" width="640" />
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/56a48002-3b6d-4b9e-bf32-54c94292f9f0" width="640" />
 
 <br/>
 
