@@ -59,7 +59,7 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 ## 주요 기능
 <br/>
 
-<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/fb3428f4-4138-4ba1-9065-b8057ba884cc" width="640">
+<img src="https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/8d210d42-d130-4c24-8417-a256ca5c91da" width="640">
 
 <br/>
 
