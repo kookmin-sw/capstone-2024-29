@@ -57,6 +57,13 @@ Ensuring high reliability and robustness of camera sensors is paramount in the r
 
 <br/>
 
+## 주요 기능
+<br/>
+
+![주요 기능](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/8add9655-884b-404c-a442-9023ad8a9ed7)
+
+<br/>
+
 ## 산학 협력 기업: dSPACE Korea
 
 <p align="center">
