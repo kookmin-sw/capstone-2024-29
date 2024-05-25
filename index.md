@@ -13,9 +13,13 @@
     <a href="https://drive.google.com/file/d/1LHRvtGyhIzEe8s-3c84pXBhnphMpKXJd/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    <br/><br/>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>[중간 보고서]</strong></a>
     ·
+    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>[중간 발표자료]</strong></a>
+    <br/><br/>
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
-    .
+    ·
     <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Inpainting Weights]</strong></a>
     <br/>
   </p>
@@ -143,9 +147,13 @@ bash ./demo.sh --video_name {your video file name}.mp4
     <a href="https://drive.google.com/file/d/1LHRvtGyhIzEe8s-3c84pXBhnphMpKXJd/view?usp=sharing"><strong>[최종 보고서]</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1H6LDtD7O-PNHHDRm3zsThjjzm-cKAt_v/view?usp=sharing"><strong>[최종 발표자료]</strong></a>
+    <br/><br/>
+    <a href="https://drive.google.com/file/d/1BzG9TZCIlh8-AR9lcQLL_JFlLFJuQi7q/view?usp=sharing"><strong>[중간 보고서]</strong></a>
     ·
+    <a href="https://drive.google.com/file/d/1TfkVNQy8WzK0b-SQtIl7A5Cm5i_HJKWb/view?usp=sharing"><strong>[중간 발표자료]</strong></a>
+    <br/><br/>
     <a href="https://drive.google.com/drive/folders/1JG_uZ_8SscJbndWIRyrJjG9popEl_f5N?usp=sharing"><strong>[Datasets]</strong></a>
-    .
+    ·
     <a href="https://drive.google.com/drive/folders/10rTSopBSLmt1ZVPomukQiAclbBFIBYo1?usp=sharing"><strong>[Inpainting Weights]</strong></a>
     <br/>
   </p>
