@@ -43,6 +43,13 @@
 
 <br/>
 
+## Abstract
+<p align="justify">
+Ensuring high reliability and robustness of camera sensors is paramount in the realm of autonomous driving, where these sensors serve as the equivalent of human eyes. Blockage of camera sensors can lead to critical safety hazards, particularly in systems reliant on lane detection such as Lane Keeping Assist (LKA), Lane Following Assist (LFA), and Highway Driving Assist (HDA). Current solutions predominantly focus on hardware-based approaches, including deactivating autonomous functions, utilizing built-in cleaning systems, and implementing rotating camera covers with wipers. However, these methods have limitations in providing comprehensive and effective mitigation strategies. In response to this challenge, this project proposes a novel software solution named 'Recovery Cam' to address camera lens blockage issues. By minimizing changes to vehicle design and architecture while ensuring robust camera perception performance, Recovery Cam aims to prevent accidents and enhance the safety of autonomous driving systems.  
+</p>
+
+<br/>
+
 ### 산학 협력 기업: dSPACE Korea
 
 <p align="center">
@@ -69,13 +76,6 @@ dSPACE는 독일 파더보른에 본사를 두고 있으며, 전 세계적으로
 
 
 ![dSPACE_Solution](https://github.com/kookmin-sw/capstone-2024-29/assets/97654622/100ef413-47d7-4e48-a54a-596b949c328d)
-
-<br/>
-
-## Abstract
-<p align="justify">
-Ensuring high reliability and robustness of camera sensors is paramount in the realm of autonomous driving, where these sensors serve as the equivalent of human eyes. Blockage of camera sensors can lead to critical safety hazards, particularly in systems reliant on lane detection such as Lane Keeping Assist (LKA), Lane Following Assist (LFA), and Highway Driving Assist (HDA). Current solutions predominantly focus on hardware-based approaches, including deactivating autonomous functions, utilizing built-in cleaning systems, and implementing rotating camera covers with wipers. However, these methods have limitations in providing comprehensive and effective mitigation strategies. In response to this challenge, this project proposes a novel software solution named 'Recovery Cam' to address camera lens blockage issues. By minimizing changes to vehicle design and architecture while ensuring robust camera perception performance, Recovery Cam aims to prevent accidents and enhance the safety of autonomous driving systems.  
-</p>
 
 <br/>
 
